@@ -1,12 +1,29 @@
 Scientific Calculator in C++
 Author: Deepak Mangal
 Description
-A simple Scientific Calculator in C++ that performs basic arithmetic and 
-scientific operations on two numbers, such as addition, subtraction, 
-multiplication, division, logarithms, trigonometric functions, and more.
+This is a simple Scientific Calculator written in C++ that performs basic arithmetic and scientific operations on two numbers.
+It supports operations such as addition, subtraction, multiplication, division, logarithms, trigonometric functions, and more.
 
 Features
-Basic operations: +, -, *, /, mod (m).
-Scientific functions: square (S), cube (C), power (P), log (L), square root (r).
-Trigonometry: sin (s), cos (c), tan (t).
-Clear (k) and Exit (.) options.
+Basic Operations: a. Addition (+)
+b. Subtraction (-)
+c. Multiplication (*)
+d. Division (/)
+e. Modulus (m)
+
+Scientific Functions:
+a. Square (S)
+b. Cube (C)
+c. Power (P)
+d. Logarithm (L)
+e. Square Root (r)
+
+Trigonometric Functions:
+a. Sine (s)
+b. Cosine (c)
+c. Tangent (t)
+
+Other Options:
+a. Clear (k)
+b. Exit (.)
+
